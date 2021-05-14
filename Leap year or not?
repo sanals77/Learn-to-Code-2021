@@ -1,0 +1,17 @@
+#include <stdio.h>
+#include <string.h>
+#include <math.h>
+#include <stdlib.h>
+
+int main() {int a;
+            scanf("%d",&a);
+            if(a%4==0)
+                printf("Yes");
+            else
+                printf("no");
+    
+            
+
+   
+    return 0;
+}
